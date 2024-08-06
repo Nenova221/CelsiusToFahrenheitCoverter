@@ -1,0 +1,5 @@
+C:\Users\User_PC\source\repos\CelsiusToFahrenheit\CToFTest\obj\Debug\net8.0\CToFTest.csproj.AssemblyReference.cache
+C:\Users\User_PC\source\repos\CelsiusToFahrenheit\CToFTest\obj\Debug\net8.0\CToFTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_PC\source\repos\CelsiusToFahrenheit\CToFTest\obj\Debug\net8.0\CToFTest.AssemblyInfoInputs.cache
+C:\Users\User_PC\source\repos\CelsiusToFahrenheit\CToFTest\obj\Debug\net8.0\CToFTest.AssemblyInfo.cs
+C:\Users\User_PC\source\repos\CelsiusToFahrenheit\CToFTest\obj\Debug\net8.0\CToFTest.csproj.CoreCompileInputs.cache
